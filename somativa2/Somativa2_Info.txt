@@ -1,6 +1,3 @@
-1.	Link para video do youtube:
-https://youtu.be/y9jaWAxfB00
-
 2.	Codigo wifi para ESP32:
 def conecta():
     ssid = "wifi_name"
@@ -54,5 +51,6 @@ while True:
         rele.value(0)
 
     time.sleep(15)
+
 
 # station.disconnect()
